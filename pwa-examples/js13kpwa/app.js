@@ -1,3 +1,14 @@
+//Allow Access
+console.log(`[Allow Access]${location}`)
+    const allowParameter = 'Code=Allow'
+    if(location.pathname=='/pwa-examples/js13kpwa/'){
+        const allow = location.search.includes(allowParameter)
+        console.log(`[Allow Access]${allow}`)
+        if(!allow){
+            location.href = '/deny.html'
+        }
+    }
+
 // Generating content based on the template
 const template = `<article>
   <img src='data/img/placeholder.png' data-src='data/img/SLUG.jpg' alt='NAME'>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>IgnoreManifestScope</key>
+			<false/>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>DemoDeny</string>
+			<key>PayloadDescription</key>
+			<string>配置 Web Clip 設定</string>
+			<key>PayloadDisplayName</key>
+			<string>Web Clip</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.2C464C53-7BB3-4EA3-9CA9-87C2AB107195</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>2C464C53-7BB3-4EA3-9CA9-87C2AB107195</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<false/>
+			<key>URL</key>
+			<string>http://localhost.private:8080</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>未命名</string>
+	<key>PayloadIdentifier</key>
+	<string>CY0017809-KINGSLEY-LEE.F0C5818E-C4CA-4E65-B234-C698EF447596</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5C693795-295A-4C5F-820F-EB1DBD4C986B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
