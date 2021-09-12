@@ -46,9 +46,7 @@ self.addEventListener('fetch', (e) => {
     if (r) return r;
     const response = await fetch(e.request).catch(function(err){
       console.log(`[Service Worker] Fetching Error: ${err}`)
-      return new Response('<script>document.getElementById("warn").style.display = "block";</script>', {
-        headers: { 'Content-Type': 'text/html' }
-      })
+      return new Response('document.getElementById("warn").style.display = "block";')
     });
 
     const cache = await caches.open(cacheName);

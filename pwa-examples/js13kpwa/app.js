@@ -5,7 +5,7 @@ console.log(`[Allow Access]${location}`)
         const allow = location.search.includes(allowParameter)
         console.log(`[Allow Access]${allow}`)
         if(!allow){
-            location.href = '/deny.html'
+            location.href = '/pwa-examples/js13kpwa/deny.html'
         }
     }
 
