@@ -32,7 +32,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>未命名</string>
+	<string>PWADeny</string>
 	<key>PayloadIdentifier</key>
 	<string>CY0017809-KINGSLEY-LEE.918E144E-462C-4561-BF10-5D8ED3E1B59E</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -40,7 +40,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6D8ABC3F-D1CA-4080-8217-A7A6B6C7894A</string>
+	<string>42918DE6-A15F-4D8B-97A4-A77DB65FCD8C</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
